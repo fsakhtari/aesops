@@ -8,4 +8,4 @@ Many plans were discussed, but none of them was thought good enough. At last a v
 All we have to do is to hang a bell about the Cat's neck. When we hear the bell ringing we will know immediately that our enemy is coming." 
 All the Mice were much surprised that they had not thought of such a plan before. But in the midst of the rejoicing over their good fortune, an old Mouse arose and said: "I will say that the plan of the young Mouse is very good. But let me ask one question: Who will bell the Cat?" 
 
-> It is one thing to say that something should be done, but quite a different matter to do it.
+** It is one thing to say that something should be done, but quite a different matter to do it.**
